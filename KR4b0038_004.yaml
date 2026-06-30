@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4b0038/chant/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 附録詩詩迢迢雲端月的爍霞間星清商激西牖澄景至南櫺書鈔百五十四杜公瞻編珠一詩詩野馬間於羈澤雉屈於樊神王自有所何為人世間御覽三百五十九正像論正像論士行散形於于闐呂韶凝神於中山與庾亮箋與庾亮箋王敦可人之目數十年間也
+  hash: sha256:0ab4044d51da41ab138e26486f21ee08f95b091525e705a8f92ebaf07898af68
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4b0038_CHANT_004-1a.1-h}
+metadata:
+  title: 孫廷尉集三卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4b0038.xml
+hash: sha256:d7ca47ba121d523497fe34e8c757dc145cd4e77935a7880cba7a2015089c33b1
