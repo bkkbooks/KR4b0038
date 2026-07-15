@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 附錄詩詩迢迢雲端月的爍霞間星清商激西牖澄景至南櫺書鈔百五十四杜公瞻編珠一詩詩野馬閑於羈澤雉屈於樊神王自有所何為人世間御覽三百五十九正像論正像論士行散形於于闐呂韶凝神於中山與庾亮牋與庾亮牋王敦可人之目數十年間也
-  hash: sha256:ec79e793d48615f7e6f163750c05e942ac97a807a73709b09e82c3df03d2ef4a
+  text: 附録詩詩迢迢雲端月的爍霞間星清商激西牖澄景至南櫺書鈔百五十四杜公瞻編珠一詩詩野馬間於羈澤雉屈於樊神王自有所何為人世間御覽三百五十九正像論正像論士行散形於于闐呂韶凝神於中山與庾亮箋與庾亮箋王敦可人之目數十年間也
+  hash: sha256:0ab4044d51da41ab138e26486f21ee08f95b091525e705a8f92ebaf07898af68
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR4b0038_CHANT_004-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR4b0038.xml
-hash: sha256:0da8959c0bcd71928c3ade519b11b52b9ae0c5ac23fbe37fbbfe964cb38aefa7
+hash: sha256:d7ca47ba121d523497fe34e8c757dc145cd4e77935a7880cba7a2015089c33b1
